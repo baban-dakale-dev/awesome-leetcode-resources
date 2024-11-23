@@ -7,6 +7,12 @@
 
 This repository contains awesome LeetCode resources to learn Data Structures and Algorithms (DSA) and prepare for Coding interviews.
 
+# Currently Following
+
+- [Leetcode Premium Is A Worth Of Every Penny](https://leetcode.com/u/baban-dakale-dev/)
+- [Striver Take You Forward DSA Course This Is A Gem](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
+- [GFG - Data Structures And Algorithms](https://www.geeksforgeeks.org/dsa-tutorial-learn-data-structures-and-algorithms/)
+
 ## 💡 Tips
 - [How to Start LeetCode](https://www.youtube.com/watch?v=Nx4bvwU0DqE)
 - [How I Mastered DSA](https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms)
@@ -79,7 +85,9 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 ## 📇 Courses
 - [Coursera - Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
 - [Coursera - Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
-
+- [Striver Take You Forward DSA Course This Is A Gem](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
+- [GFG - Data Structures And Algorithms](https://www.geeksforgeeks.org/dsa-tutorial-learn-data-structures-and-algorithms/)
+  
 ## 📚 Books
 - [Data Structures And Algorithms Made Easy](https://amzn.to/40bsEUF)
 - [Cracking the Coding Interview](https://amzn.to/4e4HNdE)
